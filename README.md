@@ -1,5 +1,5 @@
 # FizzBuzzWhizz
-# ThoughtWorks 笔试题
+#1 ThoughtWorks 笔试题
 你是一名体育老师，在某次课距离下课还有五分钟时，你决定搞一个游戏。此时有100名学生在上课。游戏的规则是：
 
 
